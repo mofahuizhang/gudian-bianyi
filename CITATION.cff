@@ -1,0 +1,36 @@
+cff-version: 1.2.0
+title: "古典编译：将中国古典经典编译为现代可执行系统算法"
+message: "如果您在学术研究中使用了本框架，请按以下格式引用。"
+type: software
+authors:
+  - family-names: "邵"
+    given-names: "寿鹏"
+    alias: "魔法徽章 / mofahuizhang"
+    email: "mofahuizhang@163.com"
+version: 1.0.0
+date-released: "2026-09-06"
+license:
+  - "CC-BY-NC-4.0"
+  - "Commercial License (Annual)"
+url: "https://gitee.com/mofahuizhang/gudian-bianyi"
+abstract: |
+  古典编译是一套将中国古典经典（管子、论语、孟子、道德经、大学、荀子等）从"道德文本"
+  重新编译为"现代可执行系统算法"的方法论与案例集。核心洞察：传统经典中蕴含的并不是
+  "约束人的锁链"，而是"曾经在超大规模人类社会运行过数千年的、极度抗噪的遗存算法
+  （Legacy Algorithms）"。已编译案例包括：管子状态机=国家级最优控制解、诸子百家对账=
+  系统动力学方程三组解、三从四德=预算重构协议、修齐治平=嵌套扩容模型、无为而治=自适应
+  最优控制、荀子性恶论=初始化无序+程序注入、十二消息卦=复杂系统坍缩仿真关键帧。
+keywords:
+  - "古典编译"
+  - "管子"
+  - "系统论"
+  - "控制论"
+  - "最优控制"
+  - "诸子百家"
+  - "无为而治"
+  - "修齐治平"
+  - "复杂系统"
+  - "自组织"
+  - "中国哲学"
+  - "结构证明"
+repository-code: "https://gitee.com/mofahuizhang/gudian-bianyi"
